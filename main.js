@@ -6,9 +6,9 @@ var giveDay = function(timestamp) {
   return (time.getDate() + '/' + (time.getMonth() + 1) + '/' + time.getFullYear());
 }
 
-var Post = function (title, text) {
+var Post = function (date, title, text) {
   var post = document.createElement('div');
-  // mainContainer.appendChild(post);
+  // appending new post after beginingLine element
   beginingLine.parentNode.insertBefore(post, beginingLine.nextSibling);  
   post.classList.add('post');
   var header = document.createElement('p');
@@ -18,9 +18,9 @@ var Post = function (title, text) {
   post.appendChild(content);
   content.classList.add('post-content');
 
-  var timestamp = Date.now();
+  // var timestamp = Date.now();
 
-  header.innerHTML = (giveDay(timestamp)) + ' : ' + title;
+  header.innerHTML = date + ' : ' + title;
   content.innerHTML = text;
 }
 var postTitle = document.getElementById('post-title');
@@ -33,9 +33,12 @@ var addNewPost = function(event) {
   }
 }
 
-var button = document.getElementById('button');
-button.addEventListener('click', addNewPost);
-new Post('tytuł probny', 'text powitalny na probe');
-new Post('tytul 2', 'tekst posta 22222222222');
+for (i = 0; i < posts.length; i++) {
+  new Post(posts[i].date, posts[i].title, posts[i].text);
+}
+// var button = document.getElementById('button');
+// button.addEventListener('click', addNewPost);
+// new Post('16', 'tytuł probny', 'text powitalny na probe');
+// new Post('16', 'tytul 2', 'tekst posta 22222222222');
 
 // nie z forma tylko z post.js jako obiekty tak jak w king books

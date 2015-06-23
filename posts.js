@@ -36,5 +36,15 @@ var posts = [
               4 lines along the borders of canvas with transparent color and now I could use fabric objects collision detection \
               function to check if any of my objects is collidin with any of my 4 lines/borders which are fabric objects to.\
               It works perfect.  I\'m proud of myself because of this idea ;)'
+  },
+  {
+    'date' : '22/06/2015',
+    'title' : 'code cleaner idea',
+    'text' : 'Today I have some time so a will write some post. Yesterday I spend whole day coding page, 5 steps to buy  something \
+              from this page. As for now is just a HTML with no JS. But I wrote this page earlier with no graphics, with just \
+              divs and random pictures. Now finaly look is a little difference than that first one. So yesterday I wrote new version\
+              with new spec. Some elements are same but some isn\'t. Now I have complete page and css file full of useless class I used \
+              at the beginning. I hava an idea to write some script to get all classes from css file and check which of them I\'m not using. \
+              As for now is just an idea but I really want to write it ;) I will let you know when I finish ;)'
   }
 ];

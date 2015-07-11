@@ -46,5 +46,15 @@ var posts = [
               with new spec. Some elements are same but some isn\'t. Now I have complete page and css file full of useless class I used \
               at the beginning. I hava an idea to write some script to get all classes from css file and check which of them I\'m not using. \
               As for now is just an idea but I really want to write it ;) I will let you know when I finish ;)'
+  },
+  {
+    'date' : '11/07/2015',
+    'title' : 'Knockout JS framework',
+    'text' : 'Last time I don\'t have too much time because of new project I am involved in. I want to write just about this project. \
+              It\'s my first big project with big amount of components and binding between them. We are using KnockoutJS framework which offers \
+              data binding which allow us to comunicate between components. One of most frequent options we are using is observable  parameter. \
+              When some parameter has an observable value it will change displaing value in every place in document we display it\'s value without \
+              necessity of our runing function checking actuall value when f.e. click or on key up when writing something in input window. This \
+              project is generally online shop. So observable value is very useful for us f.e. to show actuall quantity of some items in cart.'
   }
 ];

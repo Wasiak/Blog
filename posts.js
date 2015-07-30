@@ -56,5 +56,22 @@ var posts = [
               When some parameter has an observable value it will change displaing value in every place in document we display it\'s value without \
               necessity of our runing function checking actuall value when f.e. click or on key up when writing something in input window. This \
               project is generally online shop. So observable value is very useful for us f.e. to show actuall quantity of some items in cart.'
+  },
+  {
+    'date' : '30/07/2015',
+    'title' : 'Presta Shop hard fight',
+    'text' : 'Today I finished work on Presta Shop template for our project of online shop. Finish is maybe too big word but for now all pages are ready in 3 size \
+              including mobile version. I\'m waiting now for new module my friend is writing to choose the colors and quantity of product.(shop is selling paints) \
+              Presta is for me completely new thing, as most of tools I\'m using in my new job. Mate told me that our designer choose one template and mt only work \
+              will be changing some css values as colors, fonts or some backgrounds, maybe border style etc. and add pictures of ours product. \
+              I thought, ok it seems not so hard. I was so wrong. Our template don\'t support new version of Presta (1.6) and I have to change so many things that I \
+              thought so many times that I\'d rather do it on my own at very beginning than changing values of this template. I have to change css, html, some js and \
+              back office paraneters. I have to modifie positions and generally view of page in every widht of screen. Now I know how hooks works in Presta back office \
+              but it\'s so hard to learn this for me. I was thinking that some rules of coding like same type of naming css class or id or js function is useless and \
+              not so important. But now I know it\'s very important. In our template is such a mess in this. One element id\'s is writing dash-notation but another in \
+              CamelCase. Ok, but next one is dash-floor_notation and another in halfCamelCase. I used so many rude words when I was coding this that I didn\'t know I \
+              know as much of them. Of course it\'s not finish of work with this project but now I know problems and troubles I will have. Most important lesson for me \
+              is to keep one notation in naming classes, variables or functions because later is so much easier to change something. It take me too long to realise how \
+              helpful it is ;)'
   }
 ];

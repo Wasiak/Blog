@@ -73,5 +73,17 @@ var posts = [
               know as much of them. Of course it\'s not finish of work with this project but now I know problems and troubles I will have. Most important lesson for me \
               is to keep one notation in naming classes, variables or functions because later is so much easier to change something. It take me too long to realise how \
               helpful it is ;)'
+  },
+  {
+    'date' : '20/08/2015',
+    'title' : 'Switch to  Linux',
+    'text' : "Yesterday I started my adventure with Linux. My friends told me since long time to do it but I didn't want to. Whole life I was using \
+              Windows  and I was afraid of terminal. They told me that in Linux I can get a 'normal' desktop. I'm not a big fan of changes, specially \
+              big changes. At monday when I return from my vacations without my computer I tried to do something but at very beginning I had a problems \
+              with starting correctly Windows 8.1. Ther were  some strange errors and nothing was helping. I had to 'refresh' my system and I lost all my \
+              apps installed not from official app store. I lost my browser and all my bookmarks. I was angry bacause I cannot back to my job. \
+              My friend said: 'Kuba it's sign. It's time' And I knew what he was talking about :P Yesterday I installed Linux Mint with Cinnamon interface and \
+              I'm happy. I think this GUI is even better than in Windows :P I have some trouble with terminal but I think it was good decision. After \
+              two days I see Linux it's not so hard to understand and use. When only I will know more terminal commands I'm sure I'll thank my friends ;)"
   }
 ];

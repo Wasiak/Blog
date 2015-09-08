@@ -89,12 +89,12 @@ var posts = [
   {
     'date' : '8/09/2015',
     'title' : 'First shop almost ready',
-    'text' : "Well, today a have not so much work bacause first of our online shop is almost ready. My frontend job is almost ready /
-              and I have to do only last little corrections in css but generally it's done :) Now I can say I understand how transition /
-              works. I used it before but it was rewriting some code or intuitive and now I know how use it. I had a problems with adding/
-              some linear changes in view of some elements but now I know the best way to do it is adding/removing class to an element when /
-              something is happening of course when css changes aren't on hover. I really like animations on this project and I'm proud that/
-              I wrote it :) Next  weekend I will be on my first proffesional workshop at dev conference. Main theme is RWD. I hope I'll know what/
+    'text' : "Well, today a have not so much work bacause first of our online shop is almost ready. My frontend job is almost ready \
+              and I have to do only last little corrections in css but generally it's done :) Now I can say I understand how transition \
+              works. I used it before but it was rewriting some code or intuitive and now I know how use it. I had a problems with adding\
+              some linear changes in view of some elements but now I know the best way to do it is adding/removing class to an element when \
+              something is happening of course when css changes aren't on hover. I really like animations on this project and I'm proud that\
+              I wrote it :) Next  weekend I will be on my first proffesional workshop at dev conference. Main theme is RWD. I hope I'll know what\
               to do ;) About my feeling and new knowledge I'll write next week."
   }
 ];

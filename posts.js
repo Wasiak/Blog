@@ -96,5 +96,16 @@ var posts = [
               something is happening of course when css changes aren't on hover. I really like animations on this project and I'm proud that\
               I wrote it :) Next  weekend I will be on my first proffesional workshop at dev conference. Main theme is RWD. I hope I'll know what\
               to do ;) About my feeling and new knowledge I'll write next week."
-  }
+  },
+  {
+    'date' : '15/09/2015',
+    'title' : 'before/after css',
+    'text' : "I promised I write about workshop I was attending but it would be a long post and I have no time because of work and \
+              away match of Legia in Europa League I will go. I decided to write now this post because I just understand how after/before \
+              element in css works. I want to write this right now bacause I really pround of what I just did. I need to set border \
+              of div but not at the edges of div but 'inside' about 3-4 px away from phisical borders of div. I don't know it's grammatical\
+              correct :P I used before element with border I need, set him position absolute and give him position of top/right/bottom/left \
+              as 4px and it works  perfect. I write this because I'm really happy I understand how and why use after/before element \
+              with content equal to '' nothing :)"
+  }            
 ];

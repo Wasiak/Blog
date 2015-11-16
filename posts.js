@@ -107,5 +107,18 @@ var posts = [
               correct :P I used before element with border I need, set him position absolute and give him position of top/right/bottom/left \
               as 4px and it works  perfect. I write this because I'm really happy I understand how and why use after/before element \
               with content equal to '' nothing :)"
+  },
+  {
+    'date' : '16/11/2015',
+    'title' : 'jQuery',
+    'text' : 'I wasn\'t writing some time. I promised to write something about workshops I was attending. But I just want to say now \
+              that I learned there two new things: flex box about which I heard earlier and focal point which was completely new. \
+              Today I want to write about something my mentor said to me when I was starting my programming adventure. He said not to \
+              learn jQuery till I understand how JS listeners and functions works. Actually he wrote to me "remember life is always \
+              better with $ but programming not always". He said that when I learn how to code I will learn jQuery just like that. Now \
+              in project \'m working at sometimes I\'m using jQuery because is in code I\'m overwriting. Today I need to use some \
+              jQuery function and I just open website with jQueryAPI and done my issue in a few minutes. He was right I know now \
+              how to code and jQuery is just a tool which make my work easier but I can write everything classic way and I\'m happy \
+              of that'
   }            
 ];

@@ -120,5 +120,21 @@ var posts = [
               jQuery function and I just open website with jQueryAPI and done my issue in a few minutes. He was right I know now \
               how to code and jQuery is just a tool which make my work easier but I can write everything classic way and I\'m happy \
               of that'
+  },
+  {
+    'date' : '20/03/2016',
+    'title' : 'first year of fun',
+    'text' : 'Few days ago was my first anniversary of creating account on GitHub. This was really beginning of \
+              my real adventure with programming. I\'m very glad of my progress. Last week I had to back to my first \
+              commercial application and prepare version 2.0 with few changes and modifications. I was shocked \
+              how my code was different than this one I wrote now. On every step I see big progress. Generally \
+              I told my project-mate I\'d like to wrote this app again from very beginning than modifie existing one. \
+              Now I see mess im my old code, wrong name of variables or misleading names of functions and variables. \
+              I\'m very happy last  year was\'n waste time. This weekend was an Meet.js summit conference in Warsaw. \
+              I heard a lot of new things I\'m gonna try to use or learn about this more. I decided to wrote my first \
+              desktop app using Electron. My favourite talk was about CSS display: grid possibility. This is not supported \
+              yet by browsers (only one or two are) but in few months it will be. I started today to search and read \
+              documentation of this property to be prepared when it will be usefull. I hope my GitHub activity again rise\
+              and my progress index will not decrease (hope rise more). Sooo stay tuned :)'
   }            
 ];
